@@ -1,4 +1,4 @@
-# Pacman Factory
+# Pacmen Factory
 
 # Description
 <p>Pacman game to make the pacman move around your screen.</p>
